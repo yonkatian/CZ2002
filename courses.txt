@@ -1,2 +1,0 @@
-programming:dm2008:ntu:cool:schedule-63084/MON,1930,2230-63085/TUE,1930,2230:venue-63084/ONLINE-63085/ART:vacancy-63084/10-63085/10:students-63084-63085/cool123
-english:eg123:social:cool:schedule-12/MON,1930,2230-334/WED,1230,1530:venue-12/auditorium-334/online:vacancy-12/9-334/9:students-12/ben987-334/cool123
